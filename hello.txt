@@ -1,1 +1,1 @@
-Hello, this is the first commit and just a Git demo
+Hello, this is the first commit and just a Git demo :)
